@@ -1,0 +1,7 @@
+1.- realizo de forma correctra la clonacion del repositorio
+2.- escribe comentarios para facilidad de lectura de codigo
+3.- realiza pruebas en el index para confirmar que todo vaya bien
+4.- va leyendo el documento para seguir los requisitos que se piden
+5.- no estaba nervioso
+6.- iba explicando el codigo para mayor claridad
+7.- realizo el 90% del ejercicio, unicamente le falto mostrar en el indez la lista de palabras
